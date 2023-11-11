@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Microbacias"
         tools:targetApi="31">
         <activity
+            android:name=".view.Sobrevalessa"
+            android:exported="false" />
+        <activity
             android:name=".view.MicrobaciasCadastradas"
             android:exported="false" />
         <activity
